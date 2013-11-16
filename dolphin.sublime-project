@@ -3,12 +3,16 @@
 		{
 			"path": ".",
 			"name": "project",
-            "folder_exclude_patterns": [
-            	"docs"
-            ],
-            "file_exclude_patterns": [
-            	"*.sublime-project"
-            ]
+			"folder_exclude_patterns": [
+				"src/assets/css",
+				"docs",
+
+				".sass-cache",
+				"node_modules"
+			],
+			"file_exclude_patterns": [
+				"*.sublime-project"
+			]
 		}
 	]
 }

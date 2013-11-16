@@ -1,1 +1,5 @@
+.sass-cahe
+node_modules
+
+src/assets/css
 *.sublime-workspace
