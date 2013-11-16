@@ -1,0 +1,14 @@
+$mainColor: #F90;
+
+
+p {
+	color: $mainColor;
+}
+
+#test {
+	padding: 20px;
+
+	p {
+		color: darken($mainColor, 20);
+	}
+}
