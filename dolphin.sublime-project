@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": ".",
+			"name": "project",
+            "folder_exclude_patterns": [
+            	"docs"
+            ],
+            "file_exclude_patterns": [
+            	"*.sublime-project"
+            ]
+		}
+	]
+}
